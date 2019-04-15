@@ -1,5 +1,5 @@
 # pulseaudio-12.3-deb-tgz
-pulseaudio griggorii compilation OS10
+pulseaudio griggorii compilation OS10 если не будет работать то && sudo apt --reinstall install pulseaudio 
 
 Скомпилированн новый pulse который вобрал в себя свойства OS10 потому что ядро у меня эксклюзивное + tgz не знаю вдруг понадобиться для других OS  где форматы pkg и другие виды. Кто знает про alien и fakeroot думаю догадаются как перегнать.
 
