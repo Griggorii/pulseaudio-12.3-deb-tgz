@@ -8,3 +8,4 @@ pulseaudio griggorii compilation OS10
 как написать и описать всё без бюрократии то вот https://github.com/mikhailnov/pulseeffects и вот https://github.com/wwmm/pulseeffects
 Этот эквалайзер делает звук более настоящим чем искуственным , то есть пока я не видел в vst аналогов ну только приближенные 
 типа OTT от Xfer Records и ещё нескольких.
+Т.е приблизительно как plugin vst это можно сделать таким образом PulseEffects преименовывается в PulseEffects.dll , как пример , но не факт что это будет работоспособно в секвенсорах.
